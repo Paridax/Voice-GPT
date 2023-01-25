@@ -12,7 +12,7 @@ and the Python terminal, so you can talk to ChatGPT using your voice.
 
     1. Go to https://chat.openai.com/api/auth/session
     2. Press F12 to open console
-    3. Go to `Application` > `Cookies``
+    3. Go to `Application` > `Cookies`
     4. Copy the session token value in `__Secure-next-auth.session-token`
     5. Paste it into the `.env` file in the current working directory next to `TOKEN=`
 4. Find the conversation URL (optional)
@@ -26,9 +26,9 @@ TOKEN=<token goes here>
 CONVERSATION_ID=<conversation id goes here>
 ```
 
-## Example
+## Example Conversation
 ```
---- ChatGPT ---
+ChatGPT
 You: Hello, ChatGPT!
 ChatGPT: Hello! How can I help you today?
 You: I'm doing, good. Just testing out a project I made.
