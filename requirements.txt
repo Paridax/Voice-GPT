@@ -1,0 +1,8 @@
+whisper
+pyttsx3~=2.90
+pyaudio
+dotenv
+selenium~=4.7.2
+python-dotenv~=0.17.1
+numpy~=1.19.5
+torch~=1.13.1
