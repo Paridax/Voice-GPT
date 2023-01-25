@@ -20,6 +20,7 @@ and the Python terminal, so you can talk to ChatGPT using your voice.
 5. Run `python voice.py` to start the program. (there is also a text version, `python text.py`)
 6. Say something to ChatGPT. It will respond to you.
 
+Example `.env` file:
 ```env
 TOKEN=<token goes here>
 CONVERSATION_ID=<conversation id goes here>
